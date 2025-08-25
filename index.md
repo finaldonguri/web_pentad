@@ -8,6 +8,7 @@ title: ゼロからの登山ステップアッププラン
 - [x] v1.3 鶏冠山コース画像追加、web最適化
 - [ ] v1.4 鶏冠山日程決定 (次回予定)
 
+---
 ## 概要
 - 安全に楽しく登山の経験を積んでいただく5回の日帰り登山トレーニングを考案しました。最初は、次項にあげた基本的な装備のみご用意ください。計5回の登山を終えるころには、自分の体力と技術に応じた登山計画を自分で立てられて、自分だけの山行を楽しめるようになるでしょう！
 
@@ -41,7 +42,7 @@ title: ゼロからの登山ステップアッププラン
 
 ### (1) 鶏冠(けいかん)山 (491m) 
 
-![鶏冠山](https://cdn.yamap.co.jp/public/image2.yamap.co.jp/production/0bb25a43-e4bf-4ebd-be98-180d8d69c663?h=720&q=50&t=resize&w=400&q=60)
+![鶏冠山](index.md/img/keikan_map.png)
 
 ![MAP](https://media.discordapp.net/attachments/1408826914399064187/1408826995852312726/keikannyama.png?ex=68ab27e2&is=68a9d662&hm=81fbed062ddca0f14cbec8487d35c2d259d7cbf35b255f00832ab926fec3abf5&=&format=webp&quality=lossless)
 
