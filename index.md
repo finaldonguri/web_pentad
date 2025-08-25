@@ -42,9 +42,9 @@ title: ゼロからの登山ステップアッププラン
 
 ### (1) 鶏冠(けいかん)山 (491m) 
 
-![鶏冠山](index.md/img/keikan_map.png)
+![鶏冠山](https://cdn.yamap.co.jp/public/image2.yamap.co.jp/production/0bb25a43-e4bf-4ebd-be98-180d8d69c663?h=720&q=50&t=resize&w=400&q=60)
 
-![MAP](https://media.discordapp.net/attachments/1408826914399064187/1408826995852312726/keikannyama.png?ex=68ab27e2&is=68a9d662&hm=81fbed062ddca0f14cbec8487d35c2d259d7cbf35b255f00832ab926fec3abf5&=&format=webp&quality=lossless)
+![MAP](./img/keikan_map.png)
 
 [MAP(クリックで開きます)](https://maps.gsi.go.jp/#15/34.977232/136.007609/&base=std&ls=std&disp=1&vs=c1g1j0h0k0l0u0t0z0r0s0m0f1)
 
