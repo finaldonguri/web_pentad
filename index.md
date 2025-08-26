@@ -198,9 +198,13 @@ title: ゼロからの登山ステップアッププラン
 ## その他
 
 #### (1) 鶏冠山
-#### (2) 比良・武奈ヶ岳 or 蓬莱山
 
 - [滋賀県熊出没マップ](https://www.google.com/maps/d/u/0/viewer?mid=1rE5HcSdJnm2gX3iT1FMt0aCVuQ9ArDs&ll=34.98091430000003%2C135.98476090000003&z=12)
+- [クマ出没情報ブログ(滋賀県)](http://sukeroku.blog55.fc2.com/blog-category-52-1.html)
+
+#### (2) 比良・武奈ヶ岳 or 蓬莱山
+
+- [滋賀県熊出没マップ](https://www.google.com/maps/d/u/0/viewer?mid=1rE5HcSdJnm2gX3iT1FMt0aCVuQ9ArDs&ll=35.23408144787052%2C135.88223773490122&z=12)
 - [クマ出没情報ブログ(滋賀県)](http://sukeroku.blog55.fc2.com/blog-category-52-1.html)
 
 #### (3)～(5) その他の計画
