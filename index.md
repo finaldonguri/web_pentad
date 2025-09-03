@@ -27,6 +27,7 @@ layout: default
 gantt
 
 title 各登山の実施時期
+axisFormat %Y-%m
 section pentad
 鶏冠山:a,2025-08-15,45d
 武奈/蓬莱:b,2025-09-01,60d
