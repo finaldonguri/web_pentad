@@ -53,6 +53,7 @@ section pentad
 - [x] 印刷した1/25,000 地形図
 - [x] [コンパス](https://www.yodobashi.com/product/100000001001857090/)
 - [x] ファーストエイド
+- [x] [セーフカード（マダニとり）](https://www.musashi-innovations.com/safecard-introduction)
 
 ---
 ## 山行計画
